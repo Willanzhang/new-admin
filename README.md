@@ -6,8 +6,7 @@ react-admin system solution
 <span style="color: rgb(184,49,47);">项目是用create-react-app创建的，主要还是列出新加的功能依赖包</span>
 
 - [react@15.5.0](https://facebook.github.io/react/)
-- [react-router@4.2.2](https://react-guide.github.io/react-router-cn/)
-  (<p style="color: rgb(243,121,52);">react-router 改为 4.2.2 code spliting</p>)
+- [react-router@4.2.2](https://react-guide.github.io/react-router-cn/)(<p style="color: rgb(243,121,52);">react-router 改为 4.2.2 code spliting</p>)
 - [antd@2.9.3](https://ant.design/index-cn)(<span style="color: rgb(243,121,52);">蚂蚁金服开源的react ui组件框架</span>)
 - [axios@0.16.1](https://github.com/mzabriskie/axios)(<span style="color: rgb(243,121,52);">http请求模块，可用于前端任何场景，很强大👍</span>)
 - [echarts-for-react@1.2.0](https://github.com/hustcc/echarts-for-react)(<span style="color: rgb(243,121,52);">可视化图表，别人基于react对echarts的封装，足够用了</span>)
